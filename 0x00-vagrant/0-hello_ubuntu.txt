@@ -1,1 +1,0 @@
-When the command "uname" is run without any options in a Linux system, it prints the kernel name of the operating system. Specifically, it displays the name of the kernel that is currently running on the system.
